@@ -1,0 +1,166 @@
+@import "reset";
+
+$lightGrey: #777;
+$darkGrey: #333;
+$whiteColor: #fff;
+$redColor: rgba(242, 72, 65, 0.9);
+
+@mixin btn{
+	height: 28px;
+	width: 100px;
+	position: absolute;
+	box-shadow: 0px 0px 1px 0px $darkGrey;
+	cursor: pointer;
+	text-align: center;
+	line-height: 30px;
+	&:hover{
+		box-shadow: 0px 0px 1px 0px $darkGrey,
+					inset 0px 0px 2px 1px $darkGrey;
+	}
+}
+
+body{
+	background-image: image-url("grey-texture.png");
+	font-family: "Verdana";
+	color: $darkGrey;
+	a{
+		text-decoration: none;
+	}
+	.wrapper{
+		width: 960px;
+		margin: 20px auto;
+		position: relative;
+		.mail-type{
+			position: absolute;
+			top: 120px;
+			left: 0px;
+			ul{
+				li{
+					width: 100px;
+					height: 40px;
+					line-height: 40px;
+					text-align: center;
+					background-color: #999;
+					margin-bottom: 5px;
+					box-shadow: 0px 1px 1px 1px $lightGrey;
+					a{
+						display: block;
+						width: 100%;
+						height: 100%;
+						color: $whiteColor;
+						&:hover{
+							color: #000;
+						}
+					}
+				}
+			}
+		}
+		.action-btns{
+			margin-left: 150px;
+			li{
+				width: 110px;
+				height: 35px;
+				margin: 3px;
+				display: inline-block;
+				background-color: $whiteColor;
+				box-shadow: 0px 2px 1px 1px $lightGrey;
+				line-height: 35px;
+				text-align: center;
+				color: $darkGrey;
+				cursor: pointer;
+				&:hover{
+					outline: 2px solid $lightGrey;
+				}
+				&.new{
+					background-color: blue;
+					a{
+						display: block;
+						color: $whiteColor;
+					}
+				}
+				&.delete{
+					background-color: $redColor;
+				}
+			}
+		}
+		.mail-container{
+			width: 800px;
+			min-height: 350px;
+			margin: 30px 0px 0px 100px;
+			padding: 30px;
+			position: relative;
+			z-index: 10;
+			background-color: $whiteColor;
+			overflow: auto;
+			box-shadow: 0px 1px 1px 1px $lightGrey;
+			ul{
+				li{
+					line-height: 30px;
+					height: 30px;
+					padding: 5px;
+					margin-bottom: 10px;
+					box-shadow: 0px 1px 1px 1px $lightGrey;
+					position: relative;
+					.checker{
+						cursor: pointer;
+						width: 20px;
+						height: 20px;
+						opacity: 0.7;
+						float: left;
+						margin: 5px 30px 5px 5px;
+						background: image-url("check-ico.png");
+						&.active{
+							background-position: -20px 0px;
+						}
+					}
+					.star, .delete, .restore{
+						@include btn;
+						&.star{
+							top: 5px;
+							right: 5px;
+							background-color: $whiteColor;
+							&.active{
+								background-color: yellow;
+							}
+						}
+						&.delete{
+							top: 5px;
+							right: 110px;
+							background-color: $redColor;
+						}
+						&.restore{
+							top: 5px;
+							right: 5px;
+						}
+					}
+				}
+			}
+			.new-mail-block{
+				h2{
+					font-size: 22px;
+				}
+				input{
+					margin: 20px 5px 20px 0px;
+					padding: 0px 5px;
+					display: block;
+					height: 28px;
+					width: 200px;
+					float: left;
+					border: none;
+					box-shadow: 0px 0px 1px 0px $darkGrey;
+					&.error{
+						background-color: $redColor;
+					}
+				}
+				.save{
+					@include btn;
+					float: left;
+					position: relative;
+					margin: 20px 0px;
+					background-color: green;
+					color: $whiteColor;
+				}
+			}
+		}
+	}
+}

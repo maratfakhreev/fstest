@@ -1,0 +1,246 @@
+/* CSS reset, yahoo table optimized by Imbamarik in 2011 */
+/* line 4, ../sass/_reset.scss */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 9, ../sass/_reset.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 14, ../sass/_reset.scss */
+fieldset, img {
+  border: 0;
+}
+
+/* line 18, ../sass/_reset.scss */
+addres, caption, cite, code, dfh, em, strong, th, var, optgroup {
+  font-style: normal;
+  font-weight: normal;
+}
+
+/* line 23, ../sass/_reset.scss */
+del, ins {
+  text-decoration: none;
+}
+
+/* line 27, ../sass/_reset.scss */
+ol, ul, li {
+  list-style: none;
+}
+
+/* line 31, ../sass/_reset.scss */
+caption, th {
+  text-align: left;
+}
+
+/* line 35, ../sass/_reset.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+/* line 40, ../sass/_reset.scss */
+b, strong {
+  font-weight: bold;
+}
+
+/* line 44, ../sass/_reset.scss */
+q:before, q:after {
+  content: ' ';
+}
+
+/* line 48, ../sass/_reset.scss */
+abbr, acronym {
+  border: 0;
+  font-variant: normal;
+}
+
+/* line 22, ../sass/style.scss */
+body {
+  background-image: url('../images/grey-texture.png?1371213336');
+  font-family: "Verdana";
+  color: #333333;
+}
+/* line 26, ../sass/style.scss */
+body a {
+  text-decoration: none;
+}
+/* line 29, ../sass/style.scss */
+body .wrapper {
+  width: 960px;
+  margin: 20px auto;
+  position: relative;
+}
+/* line 33, ../sass/style.scss */
+body .wrapper .mail-type {
+  position: absolute;
+  top: 120px;
+  left: 0px;
+}
+/* line 38, ../sass/style.scss */
+body .wrapper .mail-type ul li {
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  background-color: #999;
+  margin-bottom: 5px;
+  box-shadow: 0px 1px 1px 1px #777777;
+}
+/* line 46, ../sass/style.scss */
+body .wrapper .mail-type ul li a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  color: white;
+}
+/* line 51, ../sass/style.scss */
+body .wrapper .mail-type ul li a:hover {
+  color: #000;
+}
+/* line 58, ../sass/style.scss */
+body .wrapper .action-btns {
+  margin-left: 150px;
+}
+/* line 60, ../sass/style.scss */
+body .wrapper .action-btns li {
+  width: 110px;
+  height: 35px;
+  margin: 3px;
+  display: inline-block;
+  background-color: white;
+  box-shadow: 0px 2px 1px 1px #777777;
+  line-height: 35px;
+  text-align: center;
+  color: #333333;
+  cursor: pointer;
+}
+/* line 71, ../sass/style.scss */
+body .wrapper .action-btns li:hover {
+  outline: 2px solid #777777;
+}
+/* line 74, ../sass/style.scss */
+body .wrapper .action-btns li.new {
+  background-color: blue;
+}
+/* line 76, ../sass/style.scss */
+body .wrapper .action-btns li.new a {
+  display: block;
+  color: white;
+}
+/* line 81, ../sass/style.scss */
+body .wrapper .action-btns li.delete {
+  background-color: rgba(242, 72, 65, 0.9);
+}
+/* line 86, ../sass/style.scss */
+body .wrapper .mail-container {
+  width: 800px;
+  min-height: 350px;
+  margin: 30px 0px 0px 100px;
+  padding: 30px;
+  position: relative;
+  z-index: 10;
+  background-color: white;
+  overflow: auto;
+  box-shadow: 0px 1px 1px 1px #777777;
+}
+/* line 97, ../sass/style.scss */
+body .wrapper .mail-container ul li {
+  line-height: 30px;
+  height: 30px;
+  padding: 5px;
+  margin-bottom: 10px;
+  box-shadow: 0px 1px 1px 1px #777777;
+  position: relative;
+}
+/* line 104, ../sass/style.scss */
+body .wrapper .mail-container ul li .checker {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  opacity: 0.7;
+  float: left;
+  margin: 5px 30px 5px 5px;
+  background: url('../images/check-ico.png?1373090232');
+}
+/* line 112, ../sass/style.scss */
+body .wrapper .mail-container ul li .checker.active {
+  background-position: -20px 0px;
+}
+/* line 116, ../sass/style.scss */
+body .wrapper .mail-container ul li .star, body .wrapper .mail-container ul li .delete, body .wrapper .mail-container ul li .restore {
+  height: 28px;
+  width: 100px;
+  position: absolute;
+  box-shadow: 0px 0px 1px 0px #333333;
+  cursor: pointer;
+  text-align: center;
+  line-height: 30px;
+}
+/* line 16, ../sass/style.scss */
+body .wrapper .mail-container ul li .star:hover, body .wrapper .mail-container ul li .delete:hover, body .wrapper .mail-container ul li .restore:hover {
+  box-shadow: 0px 0px 1px 0px #333333, inset 0px 0px 2px 1px #333333;
+}
+/* line 118, ../sass/style.scss */
+body .wrapper .mail-container ul li .star.star, body .wrapper .mail-container ul li .delete.star, body .wrapper .mail-container ul li .restore.star {
+  top: 5px;
+  right: 5px;
+  background-color: white;
+}
+/* line 122, ../sass/style.scss */
+body .wrapper .mail-container ul li .star.star.active, body .wrapper .mail-container ul li .delete.star.active, body .wrapper .mail-container ul li .restore.star.active {
+  background-color: yellow;
+}
+/* line 126, ../sass/style.scss */
+body .wrapper .mail-container ul li .star.delete, body .wrapper .mail-container ul li .delete.delete, body .wrapper .mail-container ul li .restore.delete {
+  top: 5px;
+  right: 110px;
+  background-color: rgba(242, 72, 65, 0.9);
+}
+/* line 131, ../sass/style.scss */
+body .wrapper .mail-container ul li .star.restore, body .wrapper .mail-container ul li .delete.restore, body .wrapper .mail-container ul li .restore.restore {
+  top: 5px;
+  right: 5px;
+}
+/* line 139, ../sass/style.scss */
+body .wrapper .mail-container .new-mail-block h2 {
+  font-size: 22px;
+}
+/* line 142, ../sass/style.scss */
+body .wrapper .mail-container .new-mail-block input {
+  margin: 20px 5px 20px 0px;
+  padding: 0px 5px;
+  display: block;
+  height: 28px;
+  width: 200px;
+  float: left;
+  border: none;
+  box-shadow: 0px 0px 1px 0px #333333;
+}
+/* line 151, ../sass/style.scss */
+body .wrapper .mail-container .new-mail-block input.error {
+  background-color: rgba(242, 72, 65, 0.9);
+}
+/* line 155, ../sass/style.scss */
+body .wrapper .mail-container .new-mail-block .save {
+  height: 28px;
+  width: 100px;
+  position: absolute;
+  box-shadow: 0px 0px 1px 0px #333333;
+  cursor: pointer;
+  text-align: center;
+  line-height: 30px;
+  float: left;
+  position: relative;
+  margin: 20px 0px;
+  background-color: green;
+  color: white;
+}
+/* line 16, ../sass/style.scss */
+body .wrapper .mail-container .new-mail-block .save:hover {
+  box-shadow: 0px 0px 1px 0px #333333, inset 0px 0px 2px 1px #333333;
+}
