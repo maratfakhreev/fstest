@@ -1,24 +1,19 @@
-define(['backbone', 'views', 'models'], function(Backbone, Views, Models){
+define(['backbone'], function(Backbone){
 
-	this.Start = Backbone.Router.extend({
-		initialize: function(){
-			window.location.href = "#Inbox";
-			this.collection = new Models.MailCollection();
-			this.collection.fetch();
-			this.mainView = new Views.ContainerView({el: $("#wrapper"), collection: this.collection});
+	return Backbone.Router.extend({
+		initialize: function(options){
+			this.layoutView = options.layoutView;		
 		},
 		routes: {
 			"newMail": "createMail",
 			":url": "page"
 		},
 		page: function(url){
-			console.log(this.collection);
-			this.mainView.render(url);	
+			this.layoutView.render(url);	
 		},
 		createMail: function(){
-			this.mainView.renderNewMail();
+			this.layoutView.renderNewMail();
 		}
 	})
 
-	return this;
 })

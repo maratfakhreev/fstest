@@ -17,24 +17,24 @@
         <nav id="mail-type" class="mail-type">
             <ul>
                 <li>
-                    <a href="#Inbox">Inbox</a>
+                    <a href="inbox">Inbox</a>
                 </li>
                 <li>
-                    <a href="#Draft">Draft</a>
+                    <a href="draft">Draft</a>
                 </li>
                 <li>
-                    <a href="#Starred">Starred</a>
+                    <a href="starred">Starred</a>
                 </li>
                 <li>
-                    <a href="#Deleted">Deleted</a>
+                    <a href="deleted">Deleted</a>
                 </li>
             </ul>
         </nav>
         <aside class="action-btns">
             <ul>
-                <li class="new"><a href="#newMail">New</a></li>
-                <li class="star">Star</li>
-                <li class="delete">Delete</li>
+                <li class="new"><a href="newMail">New</a></li>
+                <li class="top-star">Star</li>
+                <li class="top-delete">Delete</li>
             </ul>            
         </aside>
         <article class="mail-container">
@@ -42,6 +42,13 @@
                 
             </ul>
         </article>
+    </script>
+
+    <script type="text/template" id="notificationTemplate">
+        <div class="notice">
+            <span><%=message%></span>
+            <div class="close"></div>
+        </div>
     </script>
 
     <script type="text/template" id="mailItemTemplate">
@@ -66,6 +73,7 @@
 </head>
 
 <body>
+    <aside id="notification" class="notification"></aside>
     <section id="wrapper" class="wrapper">
 
     </section>

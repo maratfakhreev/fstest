@@ -1,4 +1,5 @@
 @import "reset";
+@import "compass/css3";
 
 $lightGrey: #777;
 $darkGrey: #333;
@@ -20,11 +21,43 @@ $redColor: rgba(242, 72, 65, 0.9);
 }
 
 body{
-	background-image: image-url("grey-texture.png");
+	background: image-url("grey-texture.png");
 	font-family: "Verdana";
 	color: $darkGrey;
 	a{
 		text-decoration: none;
+	}
+	.notification{
+		height: 0px;
+		background-color: green;
+		overflow: hidden;
+		@include transition-duration(0.3s);
+		.notice{
+			height: 100%;
+			width: 960px;
+			margin: 0 auto;
+			position: relative;
+			span{
+				line-height: 50px;
+				color: $whiteColor;
+			}
+			.close{
+				position: absolute;
+				top: 8px;
+				right: 8px;
+				cursor: pointer;
+				width: 34px;
+				height: 34px;
+				background: image-url("close.png");
+				&:hover{
+					background-position: -34px 0px;
+				}
+			}
+		}
+		&.show{
+			height: 50px;
+			@include transition-duration(0.3s);
+		}
 	}
 	.wrapper{
 		width: 960px;
@@ -78,7 +111,7 @@ body{
 						color: $whiteColor;
 					}
 				}
-				&.delete{
+				&.top-delete{
 					background-color: $redColor;
 				}
 			}

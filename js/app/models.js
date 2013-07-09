@@ -2,13 +2,21 @@ define(['backbone'], function(Backbone){
 	var _class = this;
 
 	this.MailModel = Backbone.Model.extend({
+		initialize: function(){
+			this.checker = false;
+		},
 		defaults: {
 			"title": "",
-			"isInbox": 1,
-			"isDraft": 0,
-			"isStarred": 0,
-			"isDeleted": 0,
-			"checked": 0
+			"isInbox": true,
+			"isDraft": false,
+			"isStarred": false,
+			"isDeleted": false
+		},
+		setChecker: function(bool){
+			this.checker = bool;
+		},
+		getChecker: function(){
+			return this.checker;
 		}
 	}),
 
@@ -18,16 +26,13 @@ define(['backbone'], function(Backbone){
 		parse: function(response){
 			return response;
 		},
-		//при синхронной загрузке данных, после формирования коллекции 
-		//таким образом можно возвращать отфильтрованную коллекцию.
-		//Но при ассинхронном подходе данный метод не подходит, так как
-		//данные рендерятся в процессе получения
-		// byInbox: function(url) {
-		//     var filtered = this.filter(function(mail) {
-		//       	return mail.get("is" + url) == 1;
-		//     });
-		//     return new MailCollection(filtered);
-		// }
+		addNewMail: function(value){
+			this.add(new _class.MailModel({
+				"title": value, 
+				"isDraft": true, 
+				"isInbox": false
+			}));
+		}
 	});
 
 	return _class;

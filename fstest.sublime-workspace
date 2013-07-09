@@ -1,0 +1,1157 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mee",
+				"message"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"notice",
+				"noticeClose"
+			],
+			[
+				"noti",
+				"notification"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"is",
+				"isInbox"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"save",
+				"saveMail"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"crea",
+				"createMessage"
+			],
+			[
+				"remove",
+				"removeToDeleted"
+			],
+			[
+				"allAdd",
+				"allAddToDeleted"
+			],
+			[
+				"all",
+				"allAddToStarred"
+			],
+			[
+				"cre",
+				"createMail"
+			],
+			[
+				"addto",
+				"addToDeleted"
+			],
+			[
+				"ma",
+				"mailType"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"dis",
+				"disableScroll"
+			],
+			[
+				"scr",
+				"scroll-pane"
+			],
+			[
+				"ta",
+				"tahoma"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"get",
+				"getViews"
+			],
+			[
+				"scree",
+				"screen4"
+			],
+			[
+				"lis",
+				"list-style-image"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"s",
+				"star_end"
+			],
+			[
+				"star",
+				"star_begin"
+			],
+			[
+				"clear",
+				"clearField"
+			],
+			[
+				"temp",
+				"tempMass"
+			],
+			[
+				"auto",
+				"authorization"
+			],
+			[
+				"aes",
+				"aesEncoder"
+			],
+			[
+				"gets",
+				"getSessionId"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"roo",
+				"roomType"
+			],
+			[
+				"room",
+				"roomName"
+			],
+			[
+				"editRoo",
+				"editRoomTemplate"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"adminDesc",
+				"AdminDescView"
+			],
+			[
+				"new",
+				"newModel"
+			],
+			[
+				"clone",
+				"cloneRoom"
+			],
+			[
+				"cu",
+				"currentTarget"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"render",
+				"renderItem"
+			],
+			[
+				"Roo",
+				"RoomsModel"
+			],
+			[
+				"slid",
+				"slideDown"
+			],
+			[
+				"time",
+				"timeStep"
+			],
+			[
+				"slider",
+				"sliderIndex"
+			],
+			[
+				"sli",
+				"sliderIndex"
+			],
+			[
+				"load",
+				"loaded"
+			],
+			[
+				"first",
+				"firstStars"
+			],
+			[
+				"gre",
+				"darkGrey"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"comfort",
+				"ComfortItemView"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"sub",
+				"submitLoad"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"max",
+				"maxCost"
+			],
+			[
+				"min",
+				"minCost"
+			],
+			[
+				"Hotel",
+				"HotelOptionsModel"
+			],
+			[
+				"submit",
+				"submitForm"
+			],
+			[
+				"dbl",
+				"dblClickStop"
+			],
+			[
+				"submi",
+				"submitBtn"
+			],
+			[
+				"uplo",
+				"uploadImg"
+			],
+			[
+				"show",
+				"showTextarea"
+			],
+			[
+				"hotel",
+				"hotel-info"
+			],
+			[
+				"hote",
+				"hotelComfort"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"timer",
+				"timerText"
+			],
+			[
+				"today",
+				"todaym"
+			],
+			[
+				"phone",
+				"phone-block"
+			],
+			[
+				"rese",
+				"reserForm"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bot",
+				"both"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"tr",
+				"transform	CSS - transform: ;"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"cd",
+				"cdmonth"
+			],
+			[
+				"i",
+				"input	Tag"
+			],
+			[
+				"aut",
+				"auto"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"btn",
+				"btnColor"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"ad",
+				"adminError"
+			],
+			[
+				"adm",
+				"adminView"
+			],
+			[
+				"tran",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"top",
+				"top	CSS - top: 0;"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"vali",
+				"validator"
+			],
+			[
+				"Ad",
+				"AdminModel"
+			],
+			[
+				"sess",
+				"sessionId"
+			],
+			[
+				"iS",
+				"isAdmin"
+			],
+			[
+				"App",
+				"AppStart"
+			],
+			[
+				"amin",
+				"adminError"
+			],
+			[
+				"main",
+				"mainPage"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"contin",
+				"container"
+			],
+			[
+				"reser",
+				"reserved_room"
+			],
+			[
+				"coo",
+				"collection"
+			],
+			[
+				"order",
+				"orderData"
+			],
+			[
+				"fix",
+				"fixFooterPos"
+			],
+			[
+				"po",
+				"portfolio"
+			],
+			[
+				"contain",
+				"container"
+			],
+			[
+				"step",
+				"step-one"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/init.js",
+			"settings":
+			{
+				"buffer_size": 603,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/app/models.js",
+			"settings":
+			{
+				"buffer_size": 724,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/app/router.js",
+			"settings":
+			{
+				"buffer_size": 561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/app/views.js",
+			"settings":
+			{
+				"buffer_size": 4137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/style.scss",
+			"settings":
+			{
+				"buffer_size": 3658,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/fstest/json/data.json",
+		"/Applications/MAMP/htdocs/check-hotel/app/webroot/js/app/views.js",
+		"/Applications/MAMP/htdocs/check-hotel/app/webroot/js/app/models.js",
+		"/Applications/MAMP/htdocs/check-hotel/app/webroot/js/app/router.js",
+		"/Users/Phantom/testproject/index.html",
+		"/Users/Phantom/testproject/README.md",
+		"/Users/Phantom/Documents/sendtofriend/js/app/server.js",
+		"/Users/Phantom/Documents/sendtofriend/index.js",
+		"/Users/Phantom/Documents/sendtofriend/server.js",
+		"/Users/Phantom/Documents/Node/test.js",
+		"/Users/Phantom/Documents/Node/node_modules/p2p-hub/examples/message-all-and-callback.js",
+		"/Users/Phantom/Node/test.js",
+		"/private/var/folders/7q/6ygn82q152l41hzcw780_v8c0000gn/T/fz3temp-1/script.js",
+		"/private/var/folders/7q/6ygn82q152l41hzcw780_v8c0000gn/T/fz3temp-1/style 2.css",
+		"/Applications/MAMP/htdocs/landing/templates/landing-template/index.php",
+		"/Applications/MAMP/htdocs/landing/templates/landing-template/js/script.js",
+		"/Applications/MAMP/htdocs/landing/templates/landing-template/sass/style.scss",
+		"/private/var/folders/7q/6ygn82q152l41hzcw780_v8c0000gn/T/fz3temp-1/script 2.js",
+		"/private/var/folders/7q/6ygn82q152l41hzcw780_v8c0000gn/T/fz3temp-1/index.php",
+		"/Applications/MAMP/htdocs/era-card/configuration.php",
+		"/Applications/MAMP/htdocs/my-tmpl-1.1/js/init.js",
+		"/Applications/MAMP/htdocs/himgrad-service/index.html",
+		"/Applications/MAMP/htdocs/himgrad-service/js/app/views.js",
+		"/Applications/MAMP/htdocs/himgrad-service/js/app/service-views.js",
+		"/Applications/MAMP/htdocs/himgrad-service/js/init.js",
+		"/Applications/MAMP/htdocs/himgrad-service/js/app/router.js",
+		"/Users/Phantom/Desktop/himgrad-service/js/app/views.js",
+		"/Users/Phantom/Desktop/himgrad-service/js/app/service-views.js",
+		"/Users/Phantom/Desktop/himgrad-service/js/app/router.js",
+		"/Users/Phantom/Desktop/himgrad-service/index.html",
+		"/Users/Phantom/Desktop/himgrad-service/js/init.js",
+		"/Users/Phantom/My Folder/Work/my libs/my-tmpl-1.0/js/init.js",
+		"/Applications/MAMP/htdocs/diplom-pres/index.html",
+		"/Applications/MAMP/htdocs/diplom-pres/sass/style.scss",
+		"/Users/Phantom/Desktop/presentation/css/style.css",
+		"/Applications/MAMP/htdocs/stimol/config.rb",
+		"/Applications/MAMP/htdocs/presentation/index.html",
+		"/Applications/MAMP/htdocs/diplom-pres/config.rb",
+		"/Users/Phantom/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/diplom-pres/css/impress-demo.css",
+		"/Applications/MAMP/htdocs/presentation/css/style.css",
+		"/Applications/MAMP/htdocs/stimol/sass/style.scss",
+		"/Applications/MAMP/htdocs/diplom-pres/component.json",
+		"/Applications/MAMP/htdocs/check-hotel/app/View/Layouts/default.ctp",
+		"/Applications/MAMP/htdocs/check-hotel/app/Controller/JsonController.php",
+		"/Applications/MAMP/htdocs/check-hotel-html/json/reserved-room.php",
+		"/Applications/MAMP/htdocs/check-hotel/jsonadmin/aes.php",
+		"/Applications/MAMP/htdocs/check-hotel/jsonadmin/authorization.php",
+		"/Applications/MAMP/htdocs/check-hotel/jsonadmin/hoteloptions.php",
+		"/Applications/MAMP/htdocs/check-hotel/index.html",
+		"/Applications/MAMP/htdocs/check-hotel/js/app/controller.js",
+		"/Applications/MAMP/htdocs/check-hotel/json/rooms.php",
+		"/Applications/MAMP/htdocs/check-hotel/json/reserved-room.php",
+		"/Applications/MAMP/htdocs/check-hotel/json/first-step.php",
+		"/Applications/MAMP/htdocs/check-hotel/json/news.php",
+		"/Applications/MAMP/htdocs/check-hotel/json/load.php",
+		"/Applications/MAMP/htdocs/check-hotel/templates/admin.html",
+		"/Applications/MAMP/htdocs/check-hotel/jsonadmin/rooms.php",
+		"/Applications/MAMP/htdocs/check-hotel/jsonadmin/editrooms.php",
+		"/Applications/MAMP/htdocs/Admin.Check-hotel/js/script.js",
+		"/Applications/MAMP/htdocs/Admin.Check-hotel/edit-room.html",
+		"/Applications/MAMP/htdocs/check-hotel/templates/main.html",
+		"/Applications/MAMP/htdocs/stimol/js/app/views.js",
+		"/Applications/MAMP/htdocs/django/js/app.js",
+		"/Applications/MAMP/htdocs/check-hotel/js/app/models.js",
+		"/Applications/MAMP/htdocs/stimol/js/app/models.js",
+		"/Applications/MAMP/htdocs/check-hotel/jsonadmin/hoteloption.php",
+		"/Applications/MAMP/htdocs/check-hotel/main.html",
+		"/Applications/MAMP/htdocs/check-hotel/admin.html",
+		"/private/var/folders/7q/6ygn82q152l41hzcw780_v8c0000gn/T/fz3temp-1/style.css",
+		"/private/var/folders/7q/6ygn82q152l41hzcw780_v8c0000gn/T/fz3temp-1/templateDetails.xml",
+		"/Applications/MAMP/htdocs/era-web/templates/era-web-maintemplate/templateDetails.xml",
+		"/Applications/MAMP/htdocs/era-web/templates/era-web-maintemplate/index.php",
+		"/Applications/MAMP/htdocs/era-web/templates/era-web-maintemplate/css/style.css",
+		"/Applications/MAMP/htdocs/era-web/templates/era-web-maintemplate/js/script.js",
+		"/Applications/MAMP/htdocs/check-hotel/js/init.js",
+		"/Applications/MAMP/htdocs/check-hotel/jsonadmin/hotelinfo.php",
+		"/Applications/MAMP/htdocs/check-hotel/js/libs/upload-file.php",
+		"/Applications/MAMP/htdocs/Admin.Check-hotel/availability.html",
+		"/Users/Phantom/Downloads/tinymce/examples/index.html",
+		"/Applications/MAMP/htdocs/check-hotel/js/controller.js",
+		"/Applications/MAMP/htdocs/check-hotel/js/models.js",
+		"/Applications/MAMP/htdocs/dy-labs/index.html",
+		"/Applications/MAMP/htdocs/check-hotel/js/views.js",
+		"/Applications/MAMP/htdocs/landing/templates/landing-template/templateDetails.xml",
+		"/Applications/MAMP/htdocs/landing/templates/landing-template/config.rb",
+		"/Applications/MAMP/htdocs/landing-html/index.html",
+		"/Applications/MAMP/htdocs/landing-html/js/script.js",
+		"/Applications/MAMP/htdocs/landing/templates/landing-template/Копия index.php",
+		"/Applications/MAMP/htdocs/landing/templates/landing-template/css/new.css",
+		"/Applications/MAMP/htdocs/bi-yelabuga/templates/bi-template/index.php",
+		"/Applications/MAMP/htdocs/bi-kazan/configuration.php",
+		"/Applications/MAMP/htdocs/landing/templates/landing/js/script.js",
+		"/Applications/MAMP/htdocs/landing/templates/landing/templateDetails.xml",
+		"/Applications/MAMP/htdocs/landing/templates/landing/index.php",
+		"/Applications/MAMP/htdocs/landing/templates/protostar/templateDetails.xml",
+		"/Applications/MAMP/htdocs/landing-html/sass/_reset.scss",
+		"/Applications/MAMP/htdocs/landing-html/css/style.css",
+		"/Applications/MAMP/htdocs/landing-html/sass/style.scss",
+		"/Applications/MAMP/htdocs/bi-yelabuga/templates/bi-template/templateDetails.xml",
+		"/Applications/MAMP/htdocs/landing/templates/landing/index.html",
+		"/Applications/MAMP/htdocs/era-web/index.php",
+		"/Applications/MAMP/htdocs/landing-html/php/sender.php",
+		"/Applications/MAMP/htdocs/era-card/templates/era-web-cardtemplate/js/script.js",
+		"/Applications/MAMP/htdocs/vmk/js/init.js",
+		"/Users/Phantom/Desktop/Landing Page/countdown/countdown.js",
+		"/Applications/MAMP/htdocs/check-hotel/sass/style.scss",
+		"/Applications/MAMP/htdocs/vmk/sass/style.scss",
+		"/Applications/MAMP/htdocs/vmk/css/style.css",
+		"/Applications/MAMP/htdocs/vmk/index.html",
+		"/Applications/MAMP/htdocs/Admin.Check-hotel/rooms-comfort.html",
+		"/Applications/MAMP/htdocs/check-hotel/sass/_reset.scss",
+		"/Applications/MAMP/htdocs/check-hotel/js/libs/backbone.js",
+		"/Users/Phantom/Google Диск/check-hotel/sass/style.scss",
+		"/Applications/MAMP/htdocs/check-hotel/js/helpers.js",
+		"/Applications/MAMP/htdocs/check-hotel/jsonadmin/hotel-info.php",
+		"/Applications/MAMP/htdocs/chgk/js/script.js",
+		"/Applications/MAMP/htdocs/check-hotel/jsonadmin/load.php",
+		"/Users/Phantom/Downloads/countdown/index.html",
+		"/Users/Phantom/Downloads/countdown/countdown.js",
+		"/Applications/MAMP/htdocs/dy-labs/js/views.js",
+		"/Applications/MAMP/htdocs/dy/css/main.css",
+		"/Applications/MAMP/htdocs/vmk/players/action-2/info.txt",
+		"/Applications/MAMP/htdocs/check-hotel/json/news.json",
+		"/Applications/MAMP/htdocs/lowkee/js/script.js",
+		"/Applications/MAMP/htdocs/harakat/index.html",
+		"/Applications/MAMP/htdocs/harakat/sass/style.scss",
+		"/Applications/MAMP/htdocs/harakat/js/views.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"notification",
+			"fd",
+			"star",
+			"toggleClass",
+			"toggle",
+			"getChecker",
+			"checked",
+			"console.log",
+			"redColor",
+			"red",
+			"#777",
+			"777",
+			"#777",
+			"add",
+			"message",
+			"_class",
+			"listenTo",
+			"navigate",
+			"fetch",
+			"reser",
+			"reset",
+			"err-message",
+			"reset",
+			"triger",
+			"order-form",
+			"order",
+			"shop-order",
+			"shop",
+			"shop-order-form",
+			"order-form",
+			"order",
+			"scroll",
+			"order-form",
+			"scroll-inner",
+			"jScrollPane",
+			"scrollpane",
+			"fancybox",
+			"jScrollPane",
+			"jScroll",
+			"оЫcroll",
+			"scroll",
+			"jscroll",
+			"scroll",
+			"scrollpane",
+			"mobile",
+			"include",
+			"textarea",
+			"slide",
+			"from",
+			"mass",
+			"max",
+			"reserv",
+			"tempMass",
+			"filterHotels",
+			"rooms",
+			"listenTo",
+			"AdminModel",
+			"roomName",
+			"fetch",
+			"saveCollection",
+			"bind",
+			"_bind",
+			"apply",
+			"save",
+			"set",
+			"hoteleditmodel",
+			"saveCollection",
+			"adminView",
+			"data",
+			"dec",
+			"crypto",
+			"saveCollection",
+			"saveColection",
+			"res",
+			"searchModel",
+			"search",
+			"searchModel",
+			"bPos",
+			"folderUrl",
+			"bPos",
+			"imgUrl",
+			"img_url",
+			"bPos",
+			"pic_position",
+			"bPos",
+			"controller",
+			"priceMonth",
+			"roomsPrices",
+			"priceBlock",
+			"pricesBlock",
+			"pricesBLock",
+			"caption",
+			"orderForm",
+			"ore",
+			"addRoom",
+			"room",
+			"китайском",
+			"английском",
+			"китайском",
+			"success",
+			"darkbg",
+			"status",
+			"langText",
+			"inputRoom",
+			"comfortInside",
+			"comfortRoom",
+			"booking-menu",
+			"booking0menu",
+			"adminPage",
+			"Информация",
+			"reset",
+			"tbody",
+			"reset",
+			"editRoom",
+			"writeMonth",
+			"nameRoom",
+			"tinyArea",
+			"tinymce",
+			"textarea",
+			"roomCopy",
+			"button",
+			"formBlock",
+			"roomsCollection",
+			"success",
+			"this.success",
+			"good",
+			"save",
+			"el.find"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$redColor",
+			"$lightGrey",
+			"picture_index",
+			"folder_url",
+			"picture_index",
+			"img_url",
+			"picture_index",
+			"pic_position",
+			"",
+			"_class",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1667,
+								1667
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1089.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "js/init.js",
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/app/models.js",
+					"settings":
+					{
+						"buffer_size": 724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								695,
+								695
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/app/router.js",
+					"settings":
+					{
+						"buffer_size": 561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/app/views.js",
+					"settings":
+					{
+						"buffer_size": 4137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								788,
+								788
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 272.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sass/style.scss",
+					"settings":
+					{
+						"buffer_size": 3658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.303076919585,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true
+}
